@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "caxeta-workspace"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "disabled"
+	}
+}
